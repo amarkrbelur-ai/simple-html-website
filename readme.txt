@@ -13,7 +13,7 @@ Font Awesome
 Smooth Scrolling 
 Fully Customizable
 Contact Form
-New test file
+
 
 Credits :
 -------
@@ -43,3 +43,5 @@ License :
 - If you have any question,feel free to contact us at webthemez@gmail.com
 
 - All images user here is for demo purpose only, we are not responsible for any copyrights.
+
+- New line added for your refrence 
